@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Zehra
-- Informatiın Systems Engineer
+#👋 Hi, I’m Zehra
+## Informatiın Systems Engineer
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Python, .NET Core etc.
 
 <!---
