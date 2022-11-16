@@ -1,6 +1,9 @@
 #                                                                     👋 Hi, I’m Zehra
+
 - 👩‍💻 Informatiın Systems Engineer
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Python, .NET Core etc.
+
+![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zehra&show_icons=true&theme=radical)
 
 ##### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-betül-taşkın-481513234/)
@@ -9,6 +12,10 @@
 
 ##### Tools:
 ![Visual Studio](https://img.shields.io/badge/%20-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/%20-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/%20-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 	![Git](https://img.shields.io/badge/-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+[![Zehra's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zehra&theme=blue-green)](https://github.com/zehrabetultaskin/github-readme-stats) 
 
 
 <!---
