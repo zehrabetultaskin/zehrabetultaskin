@@ -1,9 +1,9 @@
 #                                                                     👋 Hi, I’m Zehra
 
 - 👩‍💻 Informatiın Systems Engineer
-- 🌱 I’m currently learning HTML5, CSS3, Javascript, Python, .NET Core etc.
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=zehrabetultaskin&show_icons=true&theme=dark) 
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, Python, .NET Core etc.  
+   
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=zehrabetultaskin&show_icons=true&theme=highcontrast) 
 
 
 ##### Connect With Me:
@@ -13,8 +13,6 @@
 
 ##### Tools:
 ![Visual Studio](https://img.shields.io/badge/%20-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/%20-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/%20-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 	![Git](https://img.shields.io/badge/-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 
 <!---
