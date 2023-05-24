@@ -1,6 +1,6 @@
 #                                                                     👋 Hi, I’m Zehra
 
-- 👩‍💻 Informatiın Systems Engineer
+- 👩‍💻 Information Systems Engineer
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Python, .NET Core etc.  
    
   ![Github stats 1](https://github-readme-stats.vercel.app/api?username=zehrabetultaskin&show_icons=true&theme=highcontrast) 
